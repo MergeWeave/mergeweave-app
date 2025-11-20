@@ -1,3 +1,2 @@
-# mergeweave-app
-
-Test repository for MergeWeave GitHub App conflict detection.
+# MergeWeave App - Version B
+This is the conflict test repository for MergeWeave GitHub App.
