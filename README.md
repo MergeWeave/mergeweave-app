@@ -1,3 +1,4 @@
 # MergeWeave App - Version B
 This is the conflict test repository for MergeWeave GitHub App.
 Additional test change
+Second test after service restart
