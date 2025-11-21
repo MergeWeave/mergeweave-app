@@ -4,3 +4,4 @@ Additional test change
 Second test after service restart
 Third test with git config fixed
 Fourth test with git env vars set
+FOO
